@@ -1,0 +1,3 @@
+fișierul Proiect_Program_ASP se poate deschide cu jupyer online -> jupyter notebook sau visual studio code.
+
+de asemenea se regăsește și în .docx/pdf la secțiunea aplicații un link către github unde se vede interfața cu exemplele rulate
